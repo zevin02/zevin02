@@ -3,6 +3,8 @@
 ### Hi there 👋
 
  * 🌱 I’m currently learning and sharing on my blog,welcome~
+ * 📫 You can reach me by 1833195090@qq.com
+ * 🔭 I’m currently working on c++ and linux 
 <!--
 **zevin02/zevin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
