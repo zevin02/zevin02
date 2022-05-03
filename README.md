@@ -5,6 +5,10 @@
  * 🌱 I’m currently learning and sharing on my blog,welcome~
  * 📫 You can reach me by 1833195090@qq.com
  * 🔭 I’m currently working on c++ and linux 
+
+访问次数
+
+![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 <!--
 **zevin02/zevin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
