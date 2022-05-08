@@ -7,7 +7,9 @@
  * 🔭 I’m currently working on c++ and linux 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c1336658570&hide=css,html,swig,javascript&&layout=compact&locale=cn&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zevin02&hide=css,html,swig,javascript&&layout=compact&locale=cn&theme=dracula)
+
+
 访问次数
 
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
@@ -26,4 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
