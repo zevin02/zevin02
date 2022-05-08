@@ -9,6 +9,7 @@
 访问次数
 
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c1336658570&hide=css,html,swig,javascript&&layout=compact&locale=cn&theme=dracula)
 <!--
 **zevin02/zevin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
