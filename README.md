@@ -12,7 +12,7 @@
 
 访问次数
 
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/zevin02/count.svg)
 
 <!--
 **zevin02/zevin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
