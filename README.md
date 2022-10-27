@@ -1,10 +1,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zevin02&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi there 👋
-  大家可以查看我的技术博客https://blog.csdn.net/m0_61567378?type=blog
+  
+  大家可以查看我的技术博客
+  https://blog.csdn.net/m0_61567378?type=blog
  * 🌱 I’m currently learning and sharing on my blog,welcome~
  * 📫 You can reach me by 1833195090@qq.com
- * 🔭 I’m currently working on c++ and linux 
+ * 🔭 I’m currently working on c++ and linux and OS
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zevin02&hide=css,html,swig,javascript&&layout=compact&locale=cn&theme=dracula)
