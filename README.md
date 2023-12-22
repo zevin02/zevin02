@@ -1,13 +1,10 @@
 ## Hi there 👋
-- I love Back-end Development!
 
-
- - I put mostly of my focus on back-end develpoment with C++.
-
- - I Love writing technical articles, you can visit [my websites.](https://zevin02.github.io/)
-## I'm a/an ...
-- C++ programmer
+I'm a/an ...
+- C/C++/Golang programmer
 - Linux user
+- dedicate in DB 
+ - I Love writing technical articles, you can visit [my websites.](https://zevin02.github.io/)
 
 
 ## Find me
