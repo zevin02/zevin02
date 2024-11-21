@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 I'm a/an ...
-- C/C++/Golang programmer
-- Linux user
-- dedicate in DB 
  - I Love writing technical articles, you can visit [my websites.](https://zevin02.github.io/)
 
 
